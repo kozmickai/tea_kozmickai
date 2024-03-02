@@ -1,0 +1,24 @@
+{
+  "name": "tea_kozmickai",
+  "version": "1.0.0",
+  "description": "Basic application demonstration :0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kozmickai/tea_kozmickai.git"
+  },
+  "dependencies": {
+    "tea_kozmickai": "1.0.0",
+    "slaytea": "1.0.0",
+    "sminti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozmickai/tea_kozmickai/issues"
+  },
+  "homepage": "https://github.com/kozmickai/tea_kozmickai#readme"
+}
